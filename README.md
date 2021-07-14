@@ -9,6 +9,8 @@ Performance of CNN is  good compared to ANN.
 Data source:https://www.kaggle.com/pankrzysiu/cifar10-python
 
 ### Credit card Fraud Detection.  
-Built a model to detect the credit card fraud using artificial neural network.
+Built a model to detect the credit card fraud using artificial neural network.  
+
+![image](https://user-images.githubusercontent.com/79982401/125662790-7419adc9-d2bc-4995-81d3-6f3ecce8f9f6.png)
 
 Data source: https://www.kaggle.com/mlg-ulb/creditcardfraud
